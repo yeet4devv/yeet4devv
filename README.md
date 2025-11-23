@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo-full.svg" alt="Stok Kontrol Sistemi Logo" width="320" />
+  <img src="docs/logo-full.svg" alt="Logo" width="320" />
 </p>
 
 # Merhaba, ben Yiğit 👋
