@@ -1,45 +1,110 @@
-# Merhaba, ben Yiğit 👋
+🎮 V ARSENAL – VALORANT Skin Showcase
 
-Full Stack geliştiriciyim. Modern, bulut tabanlı web uygulamaları geliştiriyorum.  
-Özellikle **React**, **Firebase** ve **modern dashboard uygulamaları** ile çalışmayı seviyorum.
+V ARSENAL, Riot Games’in VALORANT oyunu için geliştirilmiş, fan-made bir skin vitrin web uygulamasıdır. Proje; VALORANT silah skinlerini bundle, chroma, level, VFX ve video preview detaylarıyla birlikte kullanıcıya sunmayı amaçlar.
 
----
+Framework kullanılmadan, tamamen Vanilla JavaScript ile geliştirilmiş olması; projenin performans, mimari sadelik ve frontend temellerine hakimiyet açısından güçlü bir örnek olmasını sağlar.
 
-## 🔧 Kullandığım Teknolojiler
+🚀 Canlı Demo
 
-- **Frontend:** React, Vite, TypeScript (kademeli), Tailwind / CSS
-- **Backend / BaaS:** Firebase (Auth, Firestore), Node.js (temel)
-- **Diğer:** Git, GitHub, Vercel, REST API
+🔗 GitHub Pages üzerinden yayınlanmıştır
+https://yeet4devv.github.io/valorant_skins/
 
----
+🧠 Temel Amaç
 
-## 🚀 Öne Çıkan Projelerim
+Oyun verilerini gerçek bir API üzerinden çekerek
 
-### 🎯 Stok Kontrol Sistemi
+Görsel ağırlıklı, hızlı ve kullanıcı dostu bir vitrin sunmak
 
-Modern, çok kullanıcılı stok takip uygulaması:
+Framework bağımlılığı olmadan ölçeklenebilir frontend mimarisi kurmak
 
-- Google ile giriş (Firebase Auth)
-- Rol tabanlı yetki (admin / üye)
-- Global stok listesi (herkesin ortak gördüğü ürünler)
-- Gelişmiş filtreleme, sıralama, toplu işlemler
-- Ürün detay modali (stok hareketleri + fiyat geçmişi)
-- Audit log, özet kartlar, basit grafikler
-- CSV / JSON import–export, demo verisi
+🛠️ Kullanılan Teknolojiler
 
-🔗 Canlı: [Stok Kontrol Sistemi](https://stok-kontrol-gamma.vercel.app/)  
-📦 Kod: [Repo linki](https://github.com/yeet4devv/stok-kontrol-sistemi)
+HTML5
 
----
+CSS3
 
-## 📊 GitHub İstatistikleri
+Vanilla JavaScript (ES6+)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeet4devv&show_icons=true&theme=tokyonight)
+Fetch API & Async/Await
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeet4devv&layout=compact&theme=tokyonight)
+ESLint – kod standardı
 
----
+Prettier – otomatik formatlama
 
-## 📫 Bana Ulaş
+Playwright – E2E test altyapısı
 
-- Mail: `yeet.devv@gmail.com`
+GitHub Pages – deployment
+
+Proje özellikle framework kullanmadan modüler JS yapısı, temiz DOM yönetimi ve data-driven UI yaklaşımı üzerine kuruludur.
+
+✨ Öne Çıkan Özellikler
+
+🔫 Silah ve skin listeleme
+
+📦 Bundle bazlı gezinme
+
+🎨 Chroma & level detayları
+
+🎥 Skin video preview desteği
+
+⚡ Hızlı yükleme ve hafif bundle
+
+📱 Responsive tasarım
+
+🌐 SEO & Open Graph uyumlu yapı
+
+🧩 Mimari Yaklaşım
+
+Tek girişli statik SPA benzeri yapı
+
+Ayrık sorumluluklara sahip modüler JS dosyaları
+
+API, UI render ve event logic ayrımı
+
+Framework kullanılmadan framework disiplini
+
+Bu yapı sayesinde proje:
+
+Kolay okunabilir
+
+Genişletilebilir
+
+Bakımı düşük maliyetli
+bir hale getirilmiştir.
+
+🎯 Bu Projede Neler Öğrendim?
+
+Framework olmadan state ve UI yönetimi
+
+Asenkron veri akışı ve API entegrasyonu
+
+Performans odaklı DOM manipülasyonu
+
+Lint + format + test araçlarıyla çalışma
+
+Gerçek kullanıcıya sunulacak prod-ready frontend geliştirme
+
+⚠️ Yasal Not
+
+Bu proje fan-made’dir. Riot Games veya VALORANT ile resmi bir bağlantısı yoktur.
+Tüm görseller ve veriler ilgili hak sahiplerine aittir.
+
+📌 Geliştirme Fikirleri
+
+TypeScript entegrasyonu
+
+Service Worker ile offline cache
+
+Basit state store (custom)
+
+React / Next.js versiyonu
+
+👤 Geliştirici
+
+yeet4devv
+Frontend Developer
+GitHub: https://github.com/yeet4devv
+
+🔥 CV için kısa versiyon (tek paragraf)
+
+V ARSENAL, Vanilla JavaScript ile geliştirilmiş, VALORANT oyununa ait skinleri detaylı şekilde sergileyen fan-made bir web uygulamasıdır. Projede gerçek API entegrasyonu, modüler frontend mimarisi, SEO uyumlu yapı ve Playwright ile test altyapısı kullanılmıştır. Framework kullanılmadan performans ve sürdürülebilirlik odaklı bir frontend yaklaşımı benimsenmiştir.
