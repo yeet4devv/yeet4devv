@@ -1,110 +1,72 @@
-🎮 V ARSENAL – VALORANT Skin Showcase
+# 👋 Hi, I'm yeet4devv
 
-V ARSENAL, Riot Games’in VALORANT oyunu için geliştirilmiş, fan-made bir skin vitrin web uygulamasıdır. Proje; VALORANT silah skinlerini bundle, chroma, level, VFX ve video preview detaylarıyla birlikte kullanıcıya sunmayı amaçlar.
+Frontend Developer focused on **clean architecture, performance, and data-driven UI design**.  
+I enjoy building products with strong fundamentals — sometimes **without frameworks** — to deeply understand how the web works.
 
-Framework kullanılmadan, tamamen Vanilla JavaScript ile geliştirilmiş olması; projenin performans, mimari sadelik ve frontend temellerine hakimiyet açısından güçlü bir örnek olmasını sağlar.
+---
 
-🚀 Canlı Demo
+## 🧠 What I Care About
 
-🔗 GitHub Pages üzerinden yayınlanmıştır
-https://yeet4devv.github.io/valorant_skins/
+- Frontend fundamentals (Vanilla JS, browser APIs, performance)
+- Scalable and maintainable UI architecture
+- Product-oriented development
+- Clean code, clear responsibilities, and real-world constraints
 
-🧠 Temel Amaç
+---
 
-Oyun verilerini gerçek bir API üzerinden çekerek
+## 🚀 Featured Project
 
-Görsel ağırlıklı, hızlı ve kullanıcı dostu bir vitrin sunmak
+### 🎮 V ARSENAL – VALORANT Skin Explorer
+Fan-made web application showcasing VALORANT weapon skins with bundles, chromas, levels, and video previews.
 
-Framework bağımlılığı olmadan ölçeklenebilir frontend mimarisi kurmak
+**Why this project matters:**
+- Built with **Vanilla JavaScript** (no framework)
+- Real API integration
+- SPA-like architecture
+- SEO & Open Graph ready
+- E2E testing infrastructure
 
-🛠️ Kullanılan Teknolojiler
+🔗 Repo: https://github.com/yeet4devv/valorant_skins  
+🌐 Live: https://yeet4devv.github.io/valorant_skins
 
-HTML5
+---
 
-CSS3
+## 🛠️ Tech Stack
 
-Vanilla JavaScript (ES6+)
+**Frontend**
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Fetch API, Async/Await
 
-Fetch API & Async/Await
+**Tooling**
+- ESLint & Prettier
+- Playwright
+- Git & GitHub Pages
 
-ESLint – kod standardı
+---
 
-Prettier – otomatik formatlama
+## 🧩 How I Think as a Developer
 
-Playwright – E2E test altyapısı
+- I value **clarity over cleverness**
+- I prefer **simple abstractions**
+- I think in terms of **products, not just features**
+- I consider performance, UX edge cases, and maintainability early
 
-GitHub Pages – deployment
+---
 
-Proje özellikle framework kullanmadan modüler JS yapısı, temiz DOM yönetimi ve data-driven UI yaklaşımı üzerine kuruludur.
+## 📌 Currently Improving
 
-✨ Öne Çıkan Özellikler
+- Advanced state management patterns
+- Frontend testing strategies
+- Architecture decisions at scale
+- TypeScript & framework trade-offs
 
-🔫 Silah ve skin listeleme
+---
 
-📦 Bundle bazlı gezinme
+## 📫 Contact
 
-🎨 Chroma & level detayları
+- GitHub: https://github.com/yeet4devv
 
-🎥 Skin video preview desteği
+---
 
-⚡ Hızlı yükleme ve hafif bundle
-
-📱 Responsive tasarım
-
-🌐 SEO & Open Graph uyumlu yapı
-
-🧩 Mimari Yaklaşım
-
-Tek girişli statik SPA benzeri yapı
-
-Ayrık sorumluluklara sahip modüler JS dosyaları
-
-API, UI render ve event logic ayrımı
-
-Framework kullanılmadan framework disiplini
-
-Bu yapı sayesinde proje:
-
-Kolay okunabilir
-
-Genişletilebilir
-
-Bakımı düşük maliyetli
-bir hale getirilmiştir.
-
-🎯 Bu Projede Neler Öğrendim?
-
-Framework olmadan state ve UI yönetimi
-
-Asenkron veri akışı ve API entegrasyonu
-
-Performans odaklı DOM manipülasyonu
-
-Lint + format + test araçlarıyla çalışma
-
-Gerçek kullanıcıya sunulacak prod-ready frontend geliştirme
-
-⚠️ Yasal Not
-
-Bu proje fan-made’dir. Riot Games veya VALORANT ile resmi bir bağlantısı yoktur.
-Tüm görseller ve veriler ilgili hak sahiplerine aittir.
-
-📌 Geliştirme Fikirleri
-
-TypeScript entegrasyonu
-
-Service Worker ile offline cache
-
-Basit state store (custom)
-
-React / Next.js versiyonu
-
-👤 Geliştirici
-
-yeet4devv
-Frontend Developer
-GitHub: https://github.com/yeet4devv
-
-🔥 CV için kısa versiyon (tek paragraf)
-
-V ARSENAL, Vanilla JavaScript ile geliştirilmiş, VALORANT oyununa ait skinleri detaylı şekilde sergileyen fan-made bir web uygulamasıdır. Projede gerçek API entegrasyonu, modüler frontend mimarisi, SEO uyumlu yapı ve Playwright ile test altyapısı kullanılmıştır. Framework kullanılmadan performans ve sürdürülebilirlik odaklı bir frontend yaklaşımı benimsenmiştir.
+⭐ *I’m always open to feedback, discussions, and collaboration.*
